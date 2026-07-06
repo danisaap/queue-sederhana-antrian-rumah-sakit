@@ -15,10 +15,10 @@ Aplikasi desktop manajemen antrian pasien rumah sakit berbasis Python Tkinter de
 
 | Prioritas | Nilai | Warna |
 |---|---|---|
-| Kritis | 1 | Merah (#CD0027) |
-| Serius | 2 | Kuning (#FFE001) |
-| Ringan | 3 | Hijau (#89B524) |
-| Umum | 4 | Putih (#FFFFFF) |
+| Kritis | 1 | Merah |
+| Serius | 2 | Kuning |
+| Ringan | 3 | Hijau |
+| Umum | 4 | Putih |
 
 ## Cara Menjalankan
 
